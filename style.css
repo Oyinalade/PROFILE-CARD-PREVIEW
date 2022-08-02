@@ -24,7 +24,7 @@ Dark gray: hsl(0, 0%, 59%)
 body {
   background: url("./images/bg-pattern-top.svg") right 50vw bottom 40vh
       no-repeat,
-    url("/images/bg-pattern-bottom.svg") left 50vw top 50vh no-repeat,
+    url("./images/bg-pattern-bottom.svg") left 50vw top 50vh no-repeat,
     hsl(185, 75%, 39%);
 }
 #card {
